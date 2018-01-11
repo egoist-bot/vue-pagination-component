@@ -1,1 +1,3 @@
 exports['asd'] = `j`
+
+const a = 1
